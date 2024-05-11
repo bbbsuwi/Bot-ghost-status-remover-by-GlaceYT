@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Being Creative!","Made For Creativity Invaders","Watching You! Be Careful","Moderation Bot"];
+const statusMessages = ["Add me to your server!","Made For Minds","Watching You! Be Careful","Moderating servers"];
 
 
 let currentIndex = 0;
